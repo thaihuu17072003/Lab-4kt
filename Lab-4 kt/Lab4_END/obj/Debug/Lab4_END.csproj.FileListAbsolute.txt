@@ -1,0 +1,61 @@
+C:\Users\USER\Documents\Visual Studio 2022\Lab4_END\Lab4_END\bin\Debug\Lab4_END.exe.config
+C:\Users\USER\Documents\Visual Studio 2022\Lab4_END\Lab4_END\bin\Debug\Lab4_END.exe
+C:\Users\USER\Documents\Visual Studio 2022\Lab4_END\Lab4_END\bin\Debug\Lab4_END.pdb
+C:\Users\USER\Documents\Visual Studio 2022\Lab4_END\Lab4_END\obj\Debug\Lab4_END.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2022\Lab4_END\Lab4_END\obj\Debug\Lab4_END.Menu.resources
+C:\Users\USER\Documents\Visual Studio 2022\Lab4_END\Lab4_END\obj\Debug\Lab4_END.Properties.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2022\Lab4_END\Lab4_END\obj\Debug\Lab4_END.csproj.GenerateResource.cache
+C:\Users\USER\Documents\Visual Studio 2022\Lab4_END\Lab4_END\obj\Debug\Lab4_END.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Visual Studio 2022\Lab4_END\Lab4_END\obj\Debug\Lab4_END.exe
+C:\Users\USER\Documents\Visual Studio 2022\Lab4_END\Lab4_END\obj\Debug\Lab4_END.pdb
+C:\Users\USER\Documents\Visual Studio 2022\Lab4_END\Lab4_END\obj\Debug\Lab4_END.FormPhongBan.resources
+C:\Users\USER\Documents\Visual Studio 2022\Lab4_END\Lab4_END\obj\Debug\Lab4_END.FromNhanVien.resources
+C:\Users\LENOVO\source\repos\Lab4_END\Lab4_END\Lab4_END\bin\Debug\Lab4_END.exe.config
+C:\Users\LENOVO\source\repos\Lab4_END\Lab4_END\Lab4_END\bin\Debug\Lab4_END.exe
+C:\Users\LENOVO\source\repos\Lab4_END\Lab4_END\Lab4_END\bin\Debug\Lab4_END.pdb
+C:\Users\LENOVO\source\repos\Lab4_END\Lab4_END\Lab4_END\obj\Debug\Lab4_END.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Lab4_END\Lab4_END\Lab4_END\obj\Debug\Lab4_END.FormPhongBan.resources
+C:\Users\LENOVO\source\repos\Lab4_END\Lab4_END\Lab4_END\obj\Debug\Lab4_END.FromNhanVien.resources
+C:\Users\LENOVO\source\repos\Lab4_END\Lab4_END\Lab4_END\obj\Debug\Lab4_END.Menu.resources
+C:\Users\LENOVO\source\repos\Lab4_END\Lab4_END\Lab4_END\obj\Debug\Lab4_END.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\Lab4_END\Lab4_END\Lab4_END\obj\Debug\Lab4_END.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\Lab4_END\Lab4_END\Lab4_END\obj\Debug\Lab4_END.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Lab4_END\Lab4_END\Lab4_END\obj\Debug\Lab4_END.exe
+C:\Users\LENOVO\source\repos\Lab4_END\Lab4_END\Lab4_END\obj\Debug\Lab4_END.pdb
+C:\Users\USER\Documents\Code\Nhà máy SQL\Test\Lab4_END\Lab4_END\Lab4_END\bin\Debug\Lab4_END.exe.config
+C:\Users\USER\Documents\Code\Nhà máy SQL\Test\Lab4_END\Lab4_END\Lab4_END\bin\Debug\Lab4_END.exe
+C:\Users\USER\Documents\Code\Nhà máy SQL\Test\Lab4_END\Lab4_END\Lab4_END\bin\Debug\Lab4_END.pdb
+C:\Users\USER\Documents\Code\Nhà máy SQL\Test\Lab4_END\Lab4_END\Lab4_END\obj\Debug\Lab4_END.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\Code\Nhà máy SQL\Test\Lab4_END\Lab4_END\Lab4_END\obj\Debug\Lab4_END.FormPhongBan.resources
+C:\Users\USER\Documents\Code\Nhà máy SQL\Test\Lab4_END\Lab4_END\Lab4_END\obj\Debug\Lab4_END.FromNhanVien.resources
+C:\Users\USER\Documents\Code\Nhà máy SQL\Test\Lab4_END\Lab4_END\Lab4_END\obj\Debug\Lab4_END.Menu.resources
+C:\Users\USER\Documents\Code\Nhà máy SQL\Test\Lab4_END\Lab4_END\Lab4_END\obj\Debug\Lab4_END.Properties.Resources.resources
+C:\Users\USER\Documents\Code\Nhà máy SQL\Test\Lab4_END\Lab4_END\Lab4_END\obj\Debug\Lab4_END.csproj.GenerateResource.cache
+C:\Users\USER\Documents\Code\Nhà máy SQL\Test\Lab4_END\Lab4_END\Lab4_END\obj\Debug\Lab4_END.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Code\Nhà máy SQL\Test\Lab4_END\Lab4_END\Lab4_END\obj\Debug\Lab4_END.exe
+C:\Users\USER\Documents\Code\Nhà máy SQL\Test\Lab4_END\Lab4_END\Lab4_END\obj\Debug\Lab4_END.pdb
+C:\Users\USER\Documents\Code\Nhà máy SQL\Test\Lab4_END\Lab4_END\bin\Debug\Lab4_END.exe.config
+C:\Users\USER\Documents\Code\Nhà máy SQL\Test\Lab4_END\Lab4_END\bin\Debug\Lab4_END.exe
+C:\Users\USER\Documents\Code\Nhà máy SQL\Test\Lab4_END\Lab4_END\bin\Debug\Lab4_END.pdb
+C:\Users\USER\Documents\Code\Nhà máy SQL\Test\Lab4_END\Lab4_END\obj\Debug\Lab4_END.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\Code\Nhà máy SQL\Test\Lab4_END\Lab4_END\obj\Debug\Lab4_END.FormPhongBan.resources
+C:\Users\USER\Documents\Code\Nhà máy SQL\Test\Lab4_END\Lab4_END\obj\Debug\Lab4_END.FromNhanVien.resources
+C:\Users\USER\Documents\Code\Nhà máy SQL\Test\Lab4_END\Lab4_END\obj\Debug\Lab4_END.Menu.resources
+C:\Users\USER\Documents\Code\Nhà máy SQL\Test\Lab4_END\Lab4_END\obj\Debug\Lab4_END.Properties.Resources.resources
+C:\Users\USER\Documents\Code\Nhà máy SQL\Test\Lab4_END\Lab4_END\obj\Debug\Lab4_END.csproj.GenerateResource.cache
+C:\Users\USER\Documents\Code\Nhà máy SQL\Test\Lab4_END\Lab4_END\obj\Debug\Lab4_END.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Code\Nhà máy SQL\Test\Lab4_END\Lab4_END\obj\Debug\Lab4_END.exe
+C:\Users\USER\Documents\Code\Nhà máy SQL\Test\Lab4_END\Lab4_END\obj\Debug\Lab4_END.pdb
+C:\Users\ADMIN\Downloads\Duy_Lab4-master (1)\Duy_Lab4-master\Lab4_END\bin\Debug\Lab4_END.exe.config
+C:\Users\ADMIN\Downloads\Duy_Lab4-master (1)\Duy_Lab4-master\Lab4_END\bin\Debug\Lab4_END.exe
+C:\Users\ADMIN\Downloads\Duy_Lab4-master (1)\Duy_Lab4-master\Lab4_END\bin\Debug\Lab4_END.pdb
+C:\Users\ADMIN\Downloads\Duy_Lab4-master (1)\Duy_Lab4-master\Lab4_END\obj\Debug\Lab4_END.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\Duy_Lab4-master (1)\Duy_Lab4-master\Lab4_END\obj\Debug\Lab4_END.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\Downloads\Duy_Lab4-master (1)\Duy_Lab4-master\Lab4_END\obj\Debug\Lab4_END.FormPhongBan.resources
+C:\Users\ADMIN\Downloads\Duy_Lab4-master (1)\Duy_Lab4-master\Lab4_END\obj\Debug\Lab4_END.FromNhanVien.resources
+C:\Users\ADMIN\Downloads\Duy_Lab4-master (1)\Duy_Lab4-master\Lab4_END\obj\Debug\Lab4_END.Menu.resources
+C:\Users\ADMIN\Downloads\Duy_Lab4-master (1)\Duy_Lab4-master\Lab4_END\obj\Debug\Lab4_END.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\Duy_Lab4-master (1)\Duy_Lab4-master\Lab4_END\obj\Debug\Lab4_END.csproj.GenerateResource.cache
+C:\Users\ADMIN\Downloads\Duy_Lab4-master (1)\Duy_Lab4-master\Lab4_END\obj\Debug\Lab4_END.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\Duy_Lab4-master (1)\Duy_Lab4-master\Lab4_END\obj\Debug\Lab4_END.exe
+C:\Users\ADMIN\Downloads\Duy_Lab4-master (1)\Duy_Lab4-master\Lab4_END\obj\Debug\Lab4_END.pdb
